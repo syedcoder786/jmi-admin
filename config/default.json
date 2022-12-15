@@ -1,0 +1,20 @@
+{
+	"mongoURI":"mongodb+srv://jamiabook:jb123!@cluster0.rdvlu.mongodb.net/jamiabook",
+	"jwtSecret": "secret",
+    "id": "4e141a3d-5a7c-4eed-9c4c-80ea041f8822",
+    "email": "admin@jmi.com",
+    "password": "jmiadmin@786",
+	"host": "127.0.0.1",
+	"user": "root",
+	"dbpassword": "mariadb",
+	"database": "jamiabook",
+	"API_TOKEN": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJkaWQ6ZXRocjoweDg3NjAyQjlhMUM4MWRlYzVBZTFENzk4QTM2NDNmODZmMTUyNzNBODciLCJpc3MiOiJuZnQtc3RvcmFnZSIsImlhdCI6MTY0MTk4NDc4Nzg0MiwibmFtZSI6InRlc3RrZXkifQ.Km-TLwcSOD0vM5SvMs1MCmGyK09JryfsapDd1ZFgc8E",
+	"PRIVATE_KEY": "07f03fa735f6603ac40037a5d36f8536227420b8524c2df88282a39a257babf2",
+	"openerCoCAddr": "0xFEC400b36138698c9E6e73c2e2A7a5210B746499",
+	"realOpenerCoCAddr":"0xFEC400b36138698c9E6e73c2e2A7a5210B746499",
+	"testOpenerCoCAddr":"0x13a774242A665209182Fd849126D3b9168CdC159",
+	"cccTokenAddr": "0x7f79407273471512b1470bA6B8abf224db131211",
+	"tokenDecimals": 18,
+	"ownerAdd": "0x03B906956802769a509007e35509cD0954130086",
+	"jsonRPC": "https://eth-rinkeby.alchemyapi.io/v2/S9Ye13e4IUj-Pbgok9NjgsWg9MFpnXBw"
+}

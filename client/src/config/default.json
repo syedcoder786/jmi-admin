@@ -1,0 +1,5 @@
+{
+    "proxy":"http://localhost:5000",
+    "ipfsGateway":"https://cloudflare-ipfs.com/ipfs/",
+    "nftToken":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJkaWQ6ZXRocjoweDUzN2ExYzBFNWNCNWRkNEViOGJkQzAwRTMwNUQ1NTQ4QjJhRWMzYjUiLCJpc3MiOiJuZnQtc3RvcmFnZSIsImlhdCI6MTY0NDk5NDY3MzAwNSwibmFtZSI6ImphbWlhYm9vayJ9.dB2WkXBBe6wVAoa8DEMxub1ooaH-DwAgnx2CIFTy7aY"
+}

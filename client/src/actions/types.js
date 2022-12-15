@@ -1,0 +1,14 @@
+export const ADMIN_LOADING='ADMIN_LOADING';
+export const ADMIN_LOADED='ADMIN_LOADED';
+export const AUTH_ERROR='AUTH_ERROR';
+export const LOGIN_FAIL='LOGIN_FAIL';
+export const LOGIN_SUCCESS='LOGIN_SUCCESS';
+export const LOGOUT_SUCCESS='LOGOUT_SUCCESS';
+export const GET_ERRORS='GET_ERRORS';
+export const CLEAR_ERRORS='CLEAR_ERRORS';
+export const NFTS_DATA='NFTS_DATA';
+export const ADD_NFT='ADD_NFT';
+export const LOADING_NFTS='LOADING_NFTS';
+export const DELETE_NFT='DELETE_NFT';
+export const EDIT_NFT='EDIT_NFT';
+export const OWNER_NFTS='OWNER_NFTS'
